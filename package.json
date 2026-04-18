@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/AlexHurPi/sabor-estilo",
+  "homepage": "https://github.com/AlexHurPi/saboryestilo",
    "description": "Proyecto de tienda de alimentos saludables con React, utilizando i18next para la internacionalización y gh-pages para el despliegue en GitHub Pages.",
   "scripts": {
     "dev": "vite",
